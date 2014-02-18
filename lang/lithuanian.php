@@ -45,7 +45,7 @@ $_LANG['affiliateswithdrawn'] = "Iš viso suma Panaikintas";
 $_LANG['all'] = "VISI";
 $_LANG['alreadyregistered'] = "Jau užsiregistravęs?i";
 $_LANG['announcementsdescription'] = "Peržiūrėti mūsų naujienas ir pranešimus";
-$_LANG['announcementsnone'] = "Skelbimų nera";
+$_LANG['announcementsnone'] = "Pranešimų nėra";
 $_LANG['announcementsrss'] = "vartotojai Peržiūrėti RSS";
 $_LANG['announcementstitle'] = "Pranešimai";
 $_LANG['bannedbanexpires'] = "Ban Pasibaigs";
@@ -1130,11 +1130,10 @@ $_LANG['domainmassrenew'] = "Domenų pratęsimas";
 # ReCAPTCHA
 
 $_LANG['captchatitle'] = "Saugos kodas";
-$_LANG['captchaverify'] = "Prašome įvesti simbolius, kuriuos matote žemiau esančiame paveikslėlyje į teksto lauką.";
-$_LANG['captchaverifyincorrect'] = "Įvesti simboliai nesutampa su pateiktais paveiksėlyje. Bandykite dar kartą.";
-$_LANG['recaptcha-invalid-site-private-key'] = "Įvyko klaida, prašome susisiekti su palaikymo tarnyba (Klaidos kodas: Cap1)";
-$_LANG['recaptcha-invalid-request-cookie'] = "Įvyko klaida, bandykite dar kartą (klaidos kodas: CAP2)";
-$_LANG['recaptcha-invalid-request-cookie'] = "Jūsų įvestus simbolius neatitiko žodžio patvirtinimo. Bandykite dar kartą.";
+$_LANG['captchaverify'] = "Prašome įvesti simbolius, kuriuos matote žemiau esančiame paveikslėlyje:";
+$_LANG['captchaverifyincorrect'] = "Įvesti simboliai nesutampa su pateiktais paveiksėlyje. Bandykite iš naujo.";
+$_LANG['recaptcha-invalid-site-private-key'] = "Atsiprašome, įvyko klaida. Bandykite dar kartą (CAP1)";
+$_LANG['recaptcha-invalid-request-cookie'] = "Atsiprašome, įvyko klaida. Bandykite dar kartą (CAP2)";
 
 # Prekė Rinkiniai
 
@@ -1217,7 +1216,7 @@ $_LANG['domaincheckerintro'] = "Pradėkite Jus dominančio domeno paiešką";
 $_LANG['networkstatusintro'] = "Paslaugos būsena Informacija ir tinklo pranešimai";
 
 $_LANG['creditcardyourinfo'] = "Mokėjimo būdas";
-$_LANG['ourlatestnews'] = "Mūsų Paskutinės naujienos";
+$_LANG['ourlatestnews'] = "Naujausi pranešimai";
 $_LANG['ccexpiringsoon'] = "Kreditinė kortelė Baigiasi";
 $_LANG['ccexpiringsoondesc'] = "Jūsų kreditinės kortelės netrukus baigsis, todėl prašome įsitikinkite, kad% supdate jūsų kortelės duomenys% s pas mus, kai jūs galite";
 $_LANG['availcreditbal'] = "Prieinamas Kredito Balansas";
@@ -1253,16 +1252,16 @@ $_LANG['domaincurrentlyunlocked'] = "Domeno Šiuo metu atrakinta!";
 $_LANG['domaincurrentlyunlockedexp'] = "Jūs turite įgalinti registratoriaus užraktą, jei esate perkelti domeną.";
 $_LANG['searchmultipletlds'] = "ieskoti keleto TLD";
 
-$_LANG['networkstatustitle'] = "Paslaugų Busena";
+$_LANG['networkstatustitle'] = "Paslaugų būsena";
 $_LANG['networkstatusnone'] = "Nėra% s tinklo problemos Šiuo metu";
 $_LANG['serverstatusheadingtext'] = "Žemiau yra realaus laiko apžvalga mūsų serveriuose, kur galite patikrinti, jei yra kokių nors žinomų problemų.";
 
-$_LANG['clientareacancelreasonrequired'] = "Jūs turite įvesti atšaukimo priežastis";
+$_LANG['clientareacancelreasonrequired'] = "Nurodykite atšaukimo priežastis";
 
 $_LANG['addfundsdescription'] = "Pridėti lėšų į savo paskyrą pas mus, kad būtų išvengta daug smulkių operacijų ir automatiškai rūpintis jokių naujų sąskaitų faktūrų generuoti.";
-$_LANG['addfundsnonrefundable'] = "* Visi indėliai yra negrąžinami.";
+$_LANG['addfundsnonrefundable'] = "* Visos avansinės įmokos yra negrąžinamos.";
 
-$_LANG['creditcardexpirydateinvalid'] = "galiojimo data turi būti įrašytas formatu mėnuo / diena ir negali būti praeityje";
+$_LANG['creditcardexpirydateinvalid'] = "galiojimo data turi būti įrašyta tokiu formatu: mėnuo / diena ir negali būti praeityje";
 
 $_LANG['domaincheckerchoosedomain'] = "Pasirinkite pageidaujamą domeną";
 $_LANG['domaincheckerchecknewdomain'] = "Nurodykite pageidaujamą domeną";
