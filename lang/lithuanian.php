@@ -1198,10 +1198,10 @@ $_LANG['clientareabacklink'] = "&laquo; Atgal";
 $_LANG['backtoserviceslist'] = "&laquo; Atgal į paslaugų sąrašą";
 $_LANG['backtodomainslist'] = "&laquo; Atgal į domenų sąrašą";
 
-$_LANG['clientareahomeorder'] = "Užsakymo formoje galite peržiūrėti Produktus ir Paslaugas kurias mes siūlome. Užsiregistravę klientai taip pat galės įsigyti priedų ir papildomų paslaugų prie jau užsakytų produktų.";
+$_LANG['clientareahomeorder'] = "Užsakymo formoje galite peržiūrėti paslaugas ir produktus kuriuos mes siūlome. Užsiregistravę klientai taip pat galės įsigyti priedų ir papildomų paslaugų prie jau užsakytų produktų.";
 $_LANG['clientareahomelogin'] = "Jau užsiregistravote? Jei taip, spustelėkite žemiau esantį mygtuką kad prisijungti prie klientų srities kur galėsite tvarkyti savo nustatymus.";
-$_LANG['clientareahomeorderbtn'] = "Grįžti į užsakymų forma";
-$_LANG['clientareahomeloginbtn'] = "Saugus Prisijungimas";
+$_LANG['clientareahomeorderbtn'] = "Krepšelis";
+$_LANG['clientareahomeloginbtn'] = "Prisijungti";
 
 $_LANG['clientareaproductsintro'] = "Visos paslaugos susietos su Jūsų paskyra.";
 $_LANG['clientareaproductdetailsintro'] = "Čia yra jūsų produktą / paslaugą apžvalga pas mus.";
@@ -1210,8 +1210,8 @@ $_LANG['invoicesintro'] = "Jūsų sąskaitų - faktūrų istorija.";
 $_LANG['quotesintro'] = "Čia yra visos citatos mes generuojami už jus.";
 $_LANG['emailstagline'] = "Paskutinės Jums išsiųstos žinutės...";
 $_LANG['supportticketsintro'] = "Pateikti ir stebėti bet kokį tyrimą su mumis čia ...";
-$_LANG['addfundsintro'] = "Indėlių pinigų iš anksto";
-$_LANG['registerintro'] = "Susikurkite paskyrą mūsų systemoje:";
+$_LANG['addfundsintro'] = "Avansinis mokėjimas";
+$_LANG['registerintro'] = "Susikurkite paskyrą mūsų sistemoje:";
 $_LANG['masspayintro'] = "Apmokėti visas pateiktas sąskaitas vienu mokėjimo pavedimu pasirenkant mokėjimo būdą.";
 $_LANG['domaincheckerintro'] = "Pradėkite Jus dominančio domeno paiešką";
 $_LANG['networkstatusintro'] = "Paslaugos būsena Informacija ir tinklo pranešimai";
@@ -1270,7 +1270,7 @@ $_LANG['domaincheckerdomainexample'] = "pavyzdžiui, manoimone.lt";
 $_LANG['domaincheckerinvalidtld'] = "nėra galiojantis TLD. Bandykite dar kartą.";
 $_LANG['domaincheckerhostingonly'] = "Hostingo paslaugos";
 $_LANG['domaincheckeravailtransfer'] = "Galima perdavimo";
-$_LANG['domaincheckerenterdomain'] = "Nurodykite domeną, kurį norite įsigyti, perkelti ar tiesiog užsakyti Hostingo paslaugas.";
+$_LANG['domaincheckerenterdomain'] = "Nurodykite domeną, kurį norite įsigyti, perkelti ar tiesiog užsakyti talpinimo paslaugas.";
 $_LANG['domaincheckerbulkinvaliddomain'] = "Vienas ar daugiau domenų įvedėte anksčiau buvo negaliojantis ir todėl buvo ommitted nuo rezultatų";
 
 $_LANG['kbquestionsearchere'] = "Turite klausimų? Pradėkite paieska čia.";
