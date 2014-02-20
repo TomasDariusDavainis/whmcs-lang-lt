@@ -195,7 +195,7 @@ $_LANG['clientareanavsupporttickets'] = "Mano pagalbos užklausos";
 $_LANG['clientareanocontacts'] = "Kontaktų nerasta";
 $_LANG['clientareapassword'] = "Slaptažodis";
 $_LANG['clientareapending'] = "Svarstomas";
-$_LANG['clientareapendingtransfer'] = "Kol Transfer";
+$_LANG['clientareapendingtransfer'] = "Perkeliamas";
 $_LANG['clientareaphonenumber'] = "Telefonas";
 $_LANG['clientareapostcode'] = "Pašto kodas";
 $_LANG['clientareaproductdetails'] = "Prekė";
@@ -326,7 +326,7 @@ $_LANG['domainregisternsreg'] = "Registruoti vardų serverio vardas";
 $_LANG['domainregisternsregsuccess'] = "nameserver buvo sėkmingai užregistruotas";
 $_LANG['domainregistrantchoose'] = "Pasirinkite adresatą, kurį norite naudoti čia";
 $_LANG['domainregistrantinfo'] = "Domeno užsakovo informacija";
-$_LANG['domainregistrarlock'] = "kancleris Lock";
+$_LANG['domainregistrarlock'] = "Domeno užraktas";
 $_LANG['domainregistrarlockdesc'] = "Įjungti registratoriaus spyna (rekomenduojama). Neteisėto perdavimo bus užkirstas kelias, jei užraktas veikia. ";
 $_LANG['domainregistration'] = "domenų registracija";
 $_LANG['domainregistryinfo'] = "Domenas Informacija";
@@ -1079,7 +1079,7 @@ $_LANG['orderpromopriceoverride'] = "Kaina Valdymas";
 $_LANG['orderpromofreesetup'] = "Laisvas sąranka";
 
 $_LANG['thereisaproblem'] = "Oi, ten problema ...";
-$_LANG['problemgoback'] = "Grįžti atgal ir bandykite dar kartą";
+$_LANG['problemgoback'] = "Grįžti atgal ir bandyti dar kartą";
 
 $_LANG['kiekis'] = "Kiekis";
 $_LANG['cartqtyenterquantity'] = "Norite daugiau negu 1 iš šią prekę? Įveskite Kiekis Čia: ";
@@ -1111,19 +1111,19 @@ $_LANG['domainbulkmanagementchangeaffect'] = "Šis pakeitimas bus taikomas šios
 $_LANG['domaincannotbemanaged'] = "negali būti valdoma automatiškai - susisiekite su konsultantais dėl bet kokių pakeitimų norite padaryti";
 $_LANG['domainbulkmanagementnotpossible'] = "Deja, šie nustatymai negali būti pakeisti iš mūsų kliento zonoje tuo metu esamą laiką. Prašome susisiekti su palaikymo centru dėl visų pakeitimų, kuriuos norėjo padaryti. ";
 
-$_LANG['domainmanagens'] = "Tvarkyti NS-Serveris sričiai";
+$_LANG['domainmanagens'] = "Tvarkyti vardų serverius";
 
 $_LANG['domainautorenewstatus'] = "Automatinio pratęsimimo būsena";
 $_LANG['domainautorenewinfo'] = "Automatiškai atnaujinti padeda apsaugoti jūsų domeno. Kai įjungta, mes automatiškai atsiųs jums atnaujinimo sąskaitą likus kelioms savaitėms iki jūsų domeno baigiasi, ir atnaujinti domeną turėtų mokėjimas būtų sėkmingas. ";
 $_LANG['domainautorenewrecommend'] = "Mes rekomenduojame laikyti automatinį atnaujinti leido išvengti prarasti savo domeną.";
 
-$_LANG['domainreglockstatus'] = "kancleris Lock statusas";
+$_LANG['domainreglockstatus'] = "Domeno užrakto busena";
 $_LANG['domainreglockinfo'] = "kancleris Lock (taip pat žinomas kaip vagystė) apsaugo jūsų domeną nuo neleistino perdavimo.";
 $_LANG['domainreglockrecommend'] = "Rekomenduojame, kad jūs nuolat tai leido, išskyrus atvejus, kai perduoti savo domeno vardą toli.";
 $_LANG['domainreglockenable'] = "Įjungti Registr Lock";
 $_LANG['domainreglockdisable'] = "Išjungti kancleris Lock";
 
-$_LANG['domaincontactinfoedit'] = "Redaguoti Kontaktinė informaciją";
+$_LANG['domaincontactinfoedit'] = "Redaguoti kontaktinė informaciją";
 
 $_LANG['domainmassrenew'] = "Domenų pratęsimas";
 
@@ -1236,7 +1236,7 @@ $_LANG['pwstrengthstrong'] = "Stiprus";
 
 $_LANG['managing'] = "Valdymas";
 $_LANG['information'] = "Informacija";
-$_LANG['withselected'] = "With selected";
+$_LANG['withselected'] = "Veiksmai";
 $_LANG['managedomain'] = "Tvarkyti domeną";
 $_LANG['changenameservers'] = "Keisti vardų serverius";
 $_LANG['clientareadomainmanagedns'] = "Valdyti DNS";
