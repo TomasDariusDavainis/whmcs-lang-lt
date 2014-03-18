@@ -185,13 +185,13 @@ $_LANG['clientareanavaddcontact'] = "Kurti naują";
 $_LANG['clientareanavchangecc'] = "Keisti kredito kortelės duomenis";
 $_LANG['clientareanavchangepw'] = "Slaptažodžio keitimas";
 $_LANG['clientareanavdetails'] = "Mano paskyra";
-$_LANG['clientareanavdomains'] = "Mano domenai";
+$_LANG['clientareanavdomains'] = "Domenai";
 $_LANG['clientareanavhome'] = "Pradžia";
 $_LANG['clientareanavlogout'] = "Atsijungti";
 $_LANG['clientareanavorder'] = "Užsakyti papildomų paslaugų";
 $_LANG['clientareanavsecurityquestions'] = "Pakeisti saugos klausimą";
-$_LANG['clientareanavservices'] = "Mano paslaugos";
-$_LANG['clientareanavsupporttickets'] = "Mano pagalbos užklausos";
+$_LANG['clientareanavservices'] = "Paslaugos";
+$_LANG['clientareanavsupporttickets'] = "Pagalba";
 $_LANG['clientareanocontacts'] = "Kontaktų nerasta";
 $_LANG['clientareapassword'] = "Slaptažodis";
 $_LANG['clientareapending'] = "Svarstomas";
@@ -199,7 +199,7 @@ $_LANG['clientareapendingtransfer'] = "Perkeliamas";
 $_LANG['clientareaphonenumber'] = "Telefonas";
 $_LANG['clientareapostcode'] = "Pašto kodas";
 $_LANG['clientareaproductdetails'] = "Prekė";
-$_LANG['clientareaproducts'] = "Mano paslaugos";
+$_LANG['clientareaproducts'] = "Paslaugos";
 $_LANG['clientareaproductsnone'] = "Nėra Produktai / Paslaugos Užsakytas";
 $_LANG['clientarearegistrationperiod'] = "Registracijos periodas";
 $_LANG['clientareasavechanges'] = "Išsaugoti";
@@ -963,7 +963,7 @@ $_LANG['cartrecurringcharges'] = "Periodiniai mokėjimai";
 
 $_LANG['cartenterdomain'] = "Prašome įvesti domeną, kurį norite naudoti toliau.";
 
-$_LANG['cartdomainavailableoptions'] = "Sveikiname, šis domenas yra!";
+$_LANG['cartdomainavailableoptions'] = "Sveikiname, šis domenas laisvas!";
 $_LANG['cartdomainavailableregister'] = "Prašome užsiregistruoti šį domeną";
 $_LANG['cartdomainavailablemanual'] = "Aš jį užregistruoti save atskirai";
 
