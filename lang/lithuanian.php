@@ -989,15 +989,15 @@ $_LANG['orderpromoprestart'] = "Ši akcija dar neprasidėjo. pabandyti vėliau."
 
 $_LANG['ticketmerge'] = "susijungė";
 
-$_LANG['quote'] = "Citata";
-$_LANG['quotestitle'] = "Mano kotiruotės";
+$_LANG['quote'] = "Pasiūlymas";
+$_LANG['quotestitle'] = "Spec. pasiūlymai";
 $_LANG['quoteview'] = "Peržiūrėti";
 $_LANG['quotedownload'] = "Atsisiųsti";
-$_LANG['quoteacceptbtn'] = "Priimti Citata";
+$_LANG['quoteacceptbtn'] = "Priimti pasiūlymą";
 $_LANG['quotedlpdfbtn'] = "Atsisiųsti PDF";
 $_LANG['quotediscountheading'] = "Nuolaida (%)";
-$_LANG['noquotes'] = "Šiuo metu nėra jokių kabučių išsaugoti Jūsų paskyra. <br /> Norėdami prašyti pasiūlymą, prašome atidaryti bilietą.";
-$_LANG['quotenumber'] = "Citata #";
+$_LANG['noquotes'] = "Šiuo metu nėra jokių akcijų.";
+$_LANG['quotenumber'] = "Akcija #";
 $_LANG['quotesubject'] = "Tema";
 $_LANG['quotedatecreated'] = "Sukūrimo data";
 $_LANG['quotevaliduntil'] = "Galioja iki";
@@ -1010,11 +1010,11 @@ $_LANG['quotediscount'] = "Nuolaida %";
 $_LANG['quotelinetotal'] = "Iš viso";
 $_LANG['quotestagedraft'] = "Juodraštis";
 $_LANG['quotestagedelivered'] = "Paskelbta";
-$_LANG['quotestageonhold'] = "užšaldytas";
+$_LANG['quotestageonhold'] = "sustabdytas";
 $_LANG['quotestageaccepted'] = "Priimtas";
 $_LANG['quotestagelost'] = "pasibaigęs";
 $_LANG['quotestagedead'] = "pasibaigęs";
-$_LANG['quoteref'] = "Re Citata #";
+$_LANG['quoteref'] = "Atsakymas į pasiūlymą #";
 $_LANG['quotedeposit'] = "indėlis";
 $_LANG['quotefinalpayment'] = "Indėlių balansas";
 
@@ -1206,7 +1206,7 @@ $_LANG['clientareaproductsintro'] = "Visos paslaugos susietos su Jūsų paskyra.
 $_LANG['clientareaproductdetailsintro'] = "Čia yra jūsų produktą / paslaugą apžvalga pas mus.";
 $_LANG['clientareadomainsintro'] = "Jūsų domenų peržiūra bei valdymas.";
 $_LANG['invoicesintro'] = "Jūsų sąskaitų istorija.";
-$_LANG['quotesintro'] = "Čia yra visos citatos mes generuojami už jus.";
+$_LANG['quotesintro'] = "Šiuo metu galiojančios akcijos.";
 $_LANG['emailstagline'] = "Paskutinės Jums išsiųstos žinutės...";
 $_LANG['supportticketsintro'] = "Pateikti ir stebėti bet kokį tyrimą su mumis čia ...";
 $_LANG['addfundsintro'] = "Avansinis mokėjimas";
@@ -1341,7 +1341,7 @@ $_LANG['billableitemshours'] = "Laikas";
 $_LANG['billableitemshour'] = "Valanda";
 
 $_LANG['invoicefilename'] = "Sąskaita-";
-$_LANG['quotefilename'] = "Citata-";
+$_LANG['quotefilename'] = "Pasiūlymas-";
 
 # Licencijavimo Addon
 
@@ -1441,5 +1441,5 @@ $_LANG['continue'] = "Tęsti";
 $_LANG['disable'] = "Išjungti";
 $_LANG['manage'] = "Tvarkyti";
 
-$_LANG['vatnumber'] = "PVM mokėtojo kodas";
+$_LANG['vatnumber'] = "PVM kodas";
 $_LANG['companynumber'] = "Įmonės kodas";
