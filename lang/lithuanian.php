@@ -1440,3 +1440,6 @@ $_LANG['twofageneralerror'] = "Įvyko klaida įkeliant modulį. Bandykite dar ka
 $_LANG['continue'] = "Tęsti";
 $_LANG['disable'] = "Išjungti";
 $_LANG['manage'] = "Tvarkyti";
+
+$_LANG['vatnumber'] = "PVM mokėtojo kodas";
+$_LANG['companynumber'] = "Įmones kodas";
