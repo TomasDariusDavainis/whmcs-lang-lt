@@ -213,7 +213,7 @@ $_LANG['clientareastatus'] = "Būsena";
 $_LANG['clientareasuspended'] = "Sustabdyta";
 $_LANG['clientareaterminated'] = "Nutraukta";
 $_LANG['clientareaticktoenable'] = "Įjungti";
-$_LANG['clientareatitle'] = "Klientu sritis";
+$_LANG['clientareatitle'] = "Klientų sritis";
 $_LANG['clientareaunlimited'] = "Neribotai";
 $_LANG['clientareaupdatebutton'] = "Atnaujinti";
 $_LANG['clientareaupdateyourdetails'] = "Atnaujinti paskyros informaciją";
@@ -364,7 +364,7 @@ $_LANG['downloadscategories'] = "Kategorijos";
 $_LANG['downloadsdescription'] = "Peržiūrėti savo biblioteką parsisiųsti";
 $_LANG['downloadsfiles'] = "Bylos";
 $_LANG['downloadsfilesize'] = "Bylos dydis";
-$_LANG['downloadsintrotext'] = "parsisiųsti biblioteka turi visus vadovus, programų ir kitų failų, kurie jums gali tekti gauti savo svetainę ir veikia.";
+$_LANG['downloadsintrotext'] = "Šiame skyriuje rasite visus atsisiuntimus kurie gali būti reikalingi Jūsų svetainei.";
 $_LANG['downloadspopular'] = "Populiariausi atsisiuntimai";
 $_LANG['downloadsnone'] = "Nėra atsisiuntimų";
 $_LANG['downloadstitle'] = "Atsisiuntimai";
@@ -484,7 +484,7 @@ $_LANG['maxmind_title'] = "MaxMind";
 $_LANG['more'] = "Daugiau";
 $_LANG['morechoices'] = "Daugiau pasirinkimų";
 $_LANG['networkissuesaffecting'] = "įtakoja";
-$_LANG['networkissuesaffectingyourservers'] = "Pastaba: klausimai, darantys įtaką serverių turite sąskaitas bus paryškintas auksiniame fone";
+$_LANG['networkissuesaffectingyourservers'] = "Problemos, kurios įtakoja Jūsų įsigytas paslaugas, paryškintos geltonai";
 $_LANG['networkissuesdate'] = "Data";
 $_LANG['networkissuesdescription'] = "Skaityti apie dabartinių ir reguliaraus tinklo pertrūkių";
 $_LANG['networkissueslastupdated'] = "Paskutinis atnaujinimas";
@@ -730,9 +730,9 @@ $_LANG['supportticketserrornoemail'] = "Nenurodėte el. pašto adreso";
 $_LANG['supportticketserrornomessage'] = "Jūs neįvedėte žinutę";
 $_LANG['supportticketserrornoname'] = "Nenurodėte vardo";
 $_LANG['supportticketserrornosubject'] = "Jūs neįvedėte temą";
-$_LANG['supportticketsfilenotallowed'] = "Failas, kurį bandėte įkelti neleidžiama.";
-$_LANG['supportticketsheader'] = "Jei negalite rasti jūsų problemos sprendimas mūsų žinių bazėje, galite pateikti bilietą pasirinkdami atitinkamą skyrių toliau.";
-$_LANG['supportticketsnotfound'] = "Bilietų Not Found";
+$_LANG['supportticketsfilenotallowed'] = "Failas, kurį bandėte įkelti, neleidžiama.";
+$_LANG['supportticketsheader'] = "Jei negalite rasti problemos sprendimo mūsų žinyje, galite pateikti mums pagalbos paklausimą.";
+$_LANG['supportticketsnotfound'] = "Paklausimų nerasta";
 $_LANG['supportticketsopentickets'] = "Neatsakytos pagalbos užklausos";
 $_LANG['supportticketspagetitle'] = "Pagalbos užklausos";
 $_LANG['supportticketsposted'] = "Pateikta";
@@ -1167,7 +1167,7 @@ $_LANG['navwhoislookup'] = "Domeno paieška";
 $_LANG['navbilling'] = "Sąskaitos";
 $_LANG['navsupport'] = "Pagalba";
 $_LANG['navtickets'] = "Paklausimai";
-$_LANG['navopenticket'] = "Kurti pagalbos paklausimą";
+$_LANG['navopenticket'] = "Pagalbos paklausimas";
 $_LANG['navmanagecc'] = "Tvarkyti Kreditinė kortelė";
 $_LANG['navemailssent'] = "Mano žinutės";
 
@@ -1184,7 +1184,7 @@ $_LANG['clientareanavcontacts'] = "Naudotojai";
 $_LANG['manageyouraccount'] = "Paslaugų valdymas";
 $_LANG['accountoverview'] = "Paskyros apžvalga";
 $_LANG['paymentmethod'] = "Mokėjimo būdas";
-$_LANG['paymentmethoddefault'] = "Numatytasis (Pasirinkti užsakymo metu)";
+$_LANG['paymentmethoddefault'] = "Pasirenkamas atsiskaitant";
 $_LANG['productmanagementactions'] = "Management";
 $_LANG['clientareanoaddons'] = "Nėra Komplektacija Įsigijau Tačiau";
 $_LANG['downloadssearch'] = "Paieška Siuntiniai";
@@ -1211,7 +1211,7 @@ $_LANG['emailstagline'] = "Paskutinės Jums išsiųstos žinutės...";
 $_LANG['supportticketsintro'] = "Pateikti ir stebėti bet kokį tyrimą su mumis čia ...";
 $_LANG['addfundsintro'] = "Avansinis mokėjimas";
 $_LANG['registerintro'] = "Susikurkite paskyrą mūsų sistemoje:";
-$_LANG['masspayintro'] = "Apmokėti visas pateiktas sąskaitas vienu mokėjimo pavedimu pasirenkant mokėjimo būdą.";
+$_LANG['masspayintro'] = "Čia galite vienu ypu apmokėti visas .";
 $_LANG['domaincheckerintro'] = "Išsirinkite tinkamą domeno vardą";
 $_LANG['networkstatusintro'] = "Paslaugos būsena Informacija ir tinklo pranešimai";
 
@@ -1253,7 +1253,7 @@ $_LANG['domaincurrentlyunlockedexp'] = "Jūs turite įgalinti registratoriaus u�
 $_LANG['searchmultipletlds'] = "Keletos domenų paieška";
 
 $_LANG['networkstatustitle'] = "Paslaugų būsena";
-$_LANG['networkstatusnone'] = "Nėra% s tinklo problemos Šiuo metu";
+$_LANG['networkstatusnone'] = "Šiuo metu nėra paslaugų sutrikimų";
 $_LANG['serverstatusheadingtext'] = "Žemiau yra realaus laiko apžvalga mūsų serveriuose, kur galite patikrinti, jei yra kokių nors žinomų problemų.";
 
 $_LANG['clientareacancelreasonrequired'] = "Nurodykite atšaukimo priežastis";
@@ -1272,10 +1272,10 @@ $_LANG['domaincheckeravailtransfer'] = "Galima perdavimo";
 $_LANG['domaincheckerenterdomain'] = "Nurodykite domeną, kurį norite įsigyti, perkelti ar tiesiog užsakyti talpinimo paslaugas.";
 $_LANG['domaincheckerbulkinvaliddomain'] = "Vienas ar daugiau domenų įvedėte anksčiau buvo negaliojantis ir todėl buvo ommitted nuo rezultatų";
 
-$_LANG['kbquestionsearchere'] = "Turite klausimų? Pradėkite paieska čia.";
+$_LANG['kbquestionsearchere'] = "Įveskite raktinius žodžius, pvz. pop3";
 $_LANG['Contactus'] = "Susisiekti";
 
-$_LANG['opennewticket'] = "Kurti naują bilietą";
+$_LANG['opennewticket'] = "Pagalbos paklausimas";
 $_LANG['searchtickets'] = "Įveskite bilieto Nr. arba Pavadinimą";
 $_LANG['supportticketspriority'] = "Prioritetas";
 $_LANG['supportticketsubmitted'] = "Atsiųsta";
@@ -1388,7 +1388,7 @@ $_LANG['ordererrorsbudomainbanned'] = "subdomenas prefiksas įvedėte negalima -
 
 $_LANG['ticketfeedbacktitle'] = "Atsiliepimai Prašymas bilieto";
 
-$_LANG['nosupportdepartments'] = "Nėra aptarnavimo skyriai nerasta. pabandyti vėliau.";
+$_LANG['nosupportdepartments'] = "Šiuo metu nei vienas aptarnavimo skyrius nedirba. Kviečiame pabandyti vėliau.";
 
 $_LANG['feedbackclosed'] = "Komentarai negali būti teikiama tol, kol bilietas uždarytas";
 $_LANG['feedbackprovided'] = "Jūs jau pateikė nuomonę apie šį bilietą";
