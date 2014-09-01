@@ -1441,5 +1441,6 @@ $_LANG['continue'] = "Tęsti";
 $_LANG['disable'] = "Išjungti";
 $_LANG['manage'] = "Tvarkyti";
 
+$_LANG['companydetails'] = "Įmonės rekvizitai";
 $_LANG['vatnumber'] = "PVM kodas";
 $_LANG['companynumber'] = "Įmonės kodas";
